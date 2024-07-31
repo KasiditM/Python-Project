@@ -1,3 +1,9 @@
+# Condition
+# 𝑦𝑡 =𝑓(𝑘𝑡)= 𝑘α𝑡 
+# 𝑘𝑡+1 =(1−𝑑)𝑘𝑡+𝑠𝑦𝑡
+
+α=0.9,𝑑=0.1,𝑠=0.1,𝑘1=0.1
+
 # Solow model
 import matplotlib.pyplot as plt
 s = 0.1 ; alpha = 0.9 ; d = 0.1 # กำหนดค่า
